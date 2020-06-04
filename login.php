@@ -36,7 +36,9 @@
 
 // </body>
 // </html> -->
-<?php include ('server.php');?>
+
+<?php session_start(); 
+include ('server1.php');?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

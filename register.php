@@ -41,7 +41,7 @@
 
 </body> --
 <?php 
-include('server.php');
+include('server1.php');
 
 
 ?>
